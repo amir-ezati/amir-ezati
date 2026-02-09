@@ -1,16 +1,29 @@
-## Hi there 👋
+# Amir Ezati
 
-<!--
-**amir-ezati/amir-ezati** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Backend Engineer • Founder @ Majazite
 
-Here are some ideas to get you started:
+I design and build scalable backend systems with a strong focus on clean architecture,
+data integrity, and long-term maintainability.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## What I'm working on
+- **Kontacta** — a backend learning project built in 4 different stacks to deeply understand architectural trade-offs:
+  - JavaScript + Express + Sequelize (in progress)
+  - TypeScript + Express + TypeORM
+  - TypeScript + Fastify + Drizzle
+  - TypeScript + NestJS + Fastify + Prisma
+
+- **Telegram Bot Framework (PHP)** — a modular and extensible framework for building production-grade Telegram bots (coming soon)
+
+## Technical Focus
+- Backend architecture & system design
+- RESTful APIs & data modeling
+- Authentication, validation, and error handling
+- Performance, reliability, and maintainability
+
+## Tech Stack
+JavaScript • TypeScript • Node.js • PHP  
+PostgreSQL • MySQL • Redis  
+Docker • Git • Linux
+
+---
+Currently building systems, not demos.
